@@ -1,0 +1,16 @@
+h1, h3 {
+    font-family: 'Fredoka One', cursive;
+    text-align: center;
+}
+
+.title-container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 5em;
+}
+
+.subtitle-container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 2em;
+}

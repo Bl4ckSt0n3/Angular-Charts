@@ -1,0 +1,23 @@
+.confirm-buton{
+    width: 15vw;
+    min-height: 10vh;
+    font-size: 900;
+    font-size: xxx-large;
+    color: white;
+}
+
+.confirm-buton:hover {
+    opacity: 0.8;
+}
+
+#red-button {
+    background-color: #ec172a;
+}
+#blue-button {
+    background-color: #214aa0;
+}
+
+.chart-wrapper {
+    width: 100%;
+    height: 100%;
+}
