@@ -3,7 +3,8 @@ import { RouterModule, Routes } from '@angular/router';
 import { ChartComponent } from './chart/chart.component';
 
 const routes: Routes = [
-  {path: "chart", component: ChartComponent}
+  {path: "chart", component: ChartComponent},
+  {path: "", component: ChartComponent}
 ];
 
 @NgModule({
